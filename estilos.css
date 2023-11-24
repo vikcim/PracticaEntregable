@@ -1,0 +1,26 @@
+nav{
+    border: 1px solid black;
+    text-align: center;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+
+.container div{
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+}
+
+main{
+    border: 1px solid black;
+    padding: 250px;
+}
+
+footer{
+    border: 1px solid black;
+    text-align: center;
+}
+
